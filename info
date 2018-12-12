@@ -1,0 +1,41 @@
+# info
+Folge der Anleitung von Adam Boother - Website design in Banbury, Oxfordshire
+
+https://adamboother.com
+
+Long-lasting FB access-token for server to pull FB page info
+
+https://stackoverflow.com/questions/12168452/long-lasting-fb-access-token-for-server-to-pull-fb-page-info
+
+Facebook PHP SDK
+Facebook PHP SDK v5.x upgrade guide
+
+php-graph-sdk @ Github
+
+Facebook-Developer Übersicht
+https://developers.facebook.com/docs/
+
+Facebook für Webentwickler Interaktivität deiner Desktop- und mobilen Web-Apps
+
+facebook.com/docs/graph-api/explorer
+
+https://developers.facebook.com/docs/web 
+Folgende Rechte sollten vergeben sein: ‘publish_pages’ und ‘manage_pages’. 
+Siehe auch: https://developers.facebook.com/docs/facebook-login/permissions#permissions
+
+Graph API Explorer Erstellen eines Zugriffsschlüssel - Access Token
+
+https://developers.facebook.com/tools/explorer
+
+Deine Apps bei Facebook Wenn Du schon eine Facebook App erstellt hast.
+
+https://developers.facebook.com/apps/
+
+App-Zugriffsschlüssel-Tool Info Access Token
+
+Aufgrund von Überprüfungen zur Privatsphäre müssen die meisten API-Aufrufe auf Facebook einen Zugriffsschlüssel (access-tokens) enthalten. Für die verschiedenen Anwendungsfälle gibt es verschiedene Arten von Zugriffsschlüsseln: 
+https://developers.facebook.com/docs/facebook-login/access-tokens
+Deine Zugriffsschlüssel (access-tokens) bei Facebook Wenn Du schon eine Zugriffsschlüssel erstellt hast:
+
+https://developers.facebook.com/tools/accesstoken/
+
